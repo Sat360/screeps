@@ -73,4 +73,4 @@ if (totalBuilders < neededBuilers && construction.length > 0)
 	Game.spawns.Spawn1.createCreep([WORK, WORK, CARRY, MOVE], '', { role: 'builder'});
 }
 
-// test
+// test1
